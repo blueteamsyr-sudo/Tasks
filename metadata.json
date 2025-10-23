@@ -1,0 +1,5 @@
+{
+  "name": "Task Manager - مدير المهام",
+  "description": "A simple task management application for clients and providers to track shared tasks. / تطبيق بسيط لإدارة المهام بين العملاء ومقدمي الخدمات لتتبع المهام المشتركة.",
+  "requestFramePermissions": []
+}
